@@ -33,4 +33,3 @@ WHERE indicator_code = 'DT.AMT.DLXF.CD'
 ORDER BY debt ASC  
 LIMIT 1;  
 
-
