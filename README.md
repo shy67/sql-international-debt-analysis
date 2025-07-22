@@ -49,5 +49,5 @@ This data comes from a project I completed using a dataset based on World Bank r
 
 ## What I Learned
 
-This project helped me improve my SQL skills and think critically about real-world data. I practiced writing queries to filter, group, and analyze financial information, and I gained insight into how countries manage debt. It also taught me the importance of understanding a dataset’s scope and limitations, not just trusting the numbers at face value, but asking what they really represent.
+This project helped me improve my SQL skills and think critically about real world data. I practiced writing queries to filter, group, and analyze financial information, and I gained insight into how countries manage debt. It also taught me the importance of understanding a dataset’s scope and limitations, not just trusting the numbers at face value, but asking what they really represent.
 
